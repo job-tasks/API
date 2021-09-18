@@ -1,4 +1,4 @@
-# API Task
+# iGaming API Task
 
 The task was realised with Symfony 5.1 components and API is covered with functional test.
 
